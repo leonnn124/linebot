@@ -1,7 +1,7 @@
 from linebot import LineBotApi
 from linebot.models import ( RichMenu, RichMenuSize, RichMenuArea, RichMenuBounds, MessageAction )
 
-line_bot_api = LineBotApi ( 'CaHu++OCO6WIfbqIytB2N8P5dw1OlzbxO84ZHn6WWVIP4cPu7XiZL7yiubAjzFxzJzd6c2YZL0KtWeLwX4Mbc1AAzfQPyNG0VVKE1U3qMWQsdSMKJRFrL4MIVdDWhxa9rC/UQdB04t89/1O/w1cDnyilFU=' )
+line_bot_api = LineBotApi ( 'CaHu+Fjeg5/1,62' )
 
 rich_menu_to_create = RichMenu(
     size=RichMenuSize(width=800,height=270),
